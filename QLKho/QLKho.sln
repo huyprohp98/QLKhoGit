@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKho", "QLKho\QLKho.csproj", "{777EA01E-D141-488C-8868-1283AB146E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{777EA01E-D141-488C-8868-1283AB146E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777EA01E-D141-488C-8868-1283AB146E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777EA01E-D141-488C-8868-1283AB146E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777EA01E-D141-488C-8868-1283AB146E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D2A4BF-0C47-4C5B-A2DB-190431CF02E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QLKho\QLKho\bin\Debug\netcoreapp2.1\QLKho.deps.json
+C:\Users\Admin\source\repos\QLKho\QLKho\bin\Debug\netcoreapp2.1\QLKho.runtimeconfig.json
+C:\Users\Admin\source\repos\QLKho\QLKho\bin\Debug\netcoreapp2.1\QLKho.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\QLKho\QLKho\bin\Debug\netcoreapp2.1\QLKho.dll
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\QLKho\QLKho\bin\Debug\netcoreapp2.1\QLKho.pdb
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.dll
+C:\Users\Admin\source\repos\QLKho\QLKho\obj\Debug\netcoreapp2.1\QLKho.pdb
